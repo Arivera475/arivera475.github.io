@@ -4,5 +4,5 @@ anime({
   rotateZ: 720,
   scale: 10,
   duration: 3000,
-  loop: true,
+  loop: false,
 });
