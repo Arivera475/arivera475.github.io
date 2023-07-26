@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+}
+
+
+.demo-wrapper {
+    position: relative;
+}
+
+.square {
+    height: 50px;
+    width: 50px;
+    background-color: gold;
+    position: fixed;
+    top: 50%;
+    left: 40%;
+    font-size: 8px;
+}
